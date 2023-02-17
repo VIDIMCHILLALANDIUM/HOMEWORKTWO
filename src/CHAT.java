@@ -52,7 +52,7 @@ public class CHAT {
         System.out.println("Много ли у тебя друзей?");
         String friends = input.nextLine();
         System.out.println("Какое у тебя прозвище?");
-        String Nickname = input.nextLine();
+        String nickname = input.nextLine();
         System.out.println( Nickname + " интересное прозвище)");
         System.out.println("Как ты относишься к азартным играм?");
         String gambling = input.nextLine();
